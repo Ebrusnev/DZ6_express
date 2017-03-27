@@ -1,0 +1,28 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "home_6",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "expressjs": "^1.0.1",
+    "nodemon": "^1.11.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgenii_B",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebrusnev/DZ6_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ebrusnev/DZ6_express/issues"
+  },
+  "homepage": "https://github.com/Ebrusnev/DZ6_express#readme"
+}
